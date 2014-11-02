@@ -1,0 +1,14 @@
+C:\Users\Mohit\Documents\Visual Studio 2010\Projects\Typing\Typing\bin\Release\Typing.exe
+C:\Users\Mohit\Documents\Visual Studio 2010\Projects\Typing\Typing\bin\Release\Typing.pdb
+C:\Users\Mohit\Documents\Visual Studio 2010\Projects\Typing\Typing\bin\Release\Typing.xml
+C:\Users\Mohit\Documents\Visual Studio 2010\Projects\Typing\Typing\obj\x86\Release\Typing.Form1.resources
+C:\Users\Mohit\Documents\Visual Studio 2010\Projects\Typing\Typing\obj\x86\Release\Typing.Form2.resources
+C:\Users\Mohit\Documents\Visual Studio 2010\Projects\Typing\Typing\obj\x86\Release\Typing.Form3.resources
+C:\Users\Mohit\Documents\Visual Studio 2010\Projects\Typing\Typing\obj\x86\Release\Typing.Form4.resources
+C:\Users\Mohit\Documents\Visual Studio 2010\Projects\Typing\Typing\obj\x86\Release\Typing.high_scores.resources
+C:\Users\Mohit\Documents\Visual Studio 2010\Projects\Typing\Typing\obj\x86\Release\Typing.Resources.resources
+C:\Users\Mohit\Documents\Visual Studio 2010\Projects\Typing\Typing\obj\x86\Release\Typing.SplashScreen1.resources
+C:\Users\Mohit\Documents\Visual Studio 2010\Projects\Typing\Typing\obj\x86\Release\Typing.vbproj.GenerateResource.Cache
+C:\Users\Mohit\Documents\Visual Studio 2010\Projects\Typing\Typing\obj\x86\Release\Typing.exe
+C:\Users\Mohit\Documents\Visual Studio 2010\Projects\Typing\Typing\obj\x86\Release\Typing.xml
+C:\Users\Mohit\Documents\Visual Studio 2010\Projects\Typing\Typing\obj\x86\Release\Typing.pdb

@@ -1,0 +1,136 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Typing
+</name>
+</assembly>
+<members>
+<member name="P:Typing.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Typing.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Typing.My.Resources.Resources.Black_background_set_wood_on_chanconsultants_jpg">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Typing.My.Resources.Resources.Capture">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Typing.My.Resources.Resources.FastTyping">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Typing.My.Resources.Resources.images2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Typing.My.Resources.Resources.machinetop_background">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Typing.My.Resources.Resources.splash">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Typing.My.Resources.Resources.story1">
+	<summary>
+  Looks up a localized string similar to Luckily, the wisest little pig had been watching the scene from the window
+of his own brick house, and he rapidly opened the door to his fleeing 
+brothers. And not a moment too soon, for the wolf was already hammering 
+furiously on the door. This time, the wolf had grave doubts. This house had a
+much more solid air than the others. He blew once, he blew again and then for
+a third time. But all was in vain. For the house did not budge an lnch. The
+three little pigs watched him and their fear began to f [rest of string was truncated]";.
+</summary>
+</member><member name="P:Typing.My.Resources.Resources.story10">
+	<summary>
+  Looks up a localized string similar to One Christmas was so much like another, in those years around the sea-town corner now and out of all sound except the distant speaking of the voices I sometimes hear a moment before sleep, that I can never remember whether it snowed for six days and six nights when I was twelve or whether it snowed for twelve days and twelve nights when I was six. All the Christmases roll down toward the two-tongued sea, like a cold and headlong moon bundling down the sky that was our street; and they stop at the rim of the [rest of string was truncated]";.
+</summary>
+</member><member name="P:Typing.My.Resources.Resources.story2">
+	<summary>
+  Looks up a localized string similar to About half of all practitioners today have degrees in computer science, information systems, or information technology. A small, but growing, number of practitioners have software engineering degrees. In 1987, Imperial College London introduced the first three-year software engineering Bachelor's degree in the UK and the world; in the following year, the University of Sheffield established a similar program. In 1996, the Rochester Institute of Technology established the first software engineering Bachelor's [rest of string was truncated]";.
+</summary>
+</member><member name="P:Typing.My.Resources.Resources.story3">
+	<summary>
+  Looks up a localized string similar to Maupassant made two divisions of his spare hours, one for boating, and
+the other for literature. Every evening in spring, every free day,
+he ran down to the river whose mysterious current veiled in fog or
+sparkling in the sun called to him and bewitched him. In the islands in
+the Seine between Chatou and Port-Marly, on the banks of Sartrouville
+and Triel he was long noted among the population of boatmen, who
+have now vanished, for his unwearying biceps, his cynical gaiety of
+good-fellowship, his unfa [rest of string was truncated]";.
+</summary>
+</member><member name="P:Typing.My.Resources.Resources.story4">
+	<summary>
+  Looks up a localized string similar to The afternoon was wretched. They could not understand the caprice of
+this German, and the strangest ideas came into their heads. They all
+congregated in the kitchen, and talked the subject to death, imagining
+all kinds of unlikely things. Perhaps they were to be kept as hostages
+--but for what reason? or to be extradited as prisoners of war? or
+possibly they were to be held for ransom? They were panic-stricken at
+this last supposition. The richest among them were the most alarmed,
+seeing themselves f [rest of string was truncated]";.
+</summary>
+</member><member name="P:Typing.My.Resources.Resources.story5">
+	<summary>
+  Looks up a localized string similar to For several days in succession fragments of a defeated army had passed
+through the town. They were mere disorganized bands, not disciplined
+forces. The men wore long, dirty beards and tattered uniforms; they
+advanced in listless fashion, without a flag, without a leader. All
+seemed exhausted, worn out, incapable of thought or resolve, marching
+onward merely by force of habit, and dropping to the ground with fatigue
+the moment they halted. One saw, in particular, many enlisted men,
+peaceful citizens,  [rest of string was truncated]";.
+</summary>
+</member><member name="P:Typing.My.Resources.Resources.story6">
+	<summary>
+  Looks up a localized string similar to At the end of a short time, once the first terror had subsided, calm
+was again restored. In many houses the Prussian officer ate at the same
+table with the family. He was often well-bred, and, out of politeness,
+expressed sympathy with France and repugnance at being compelled to take
+part in the war. This sentiment was received with gratitude; besides,
+his protection might be needful some day or other. By the exercise of
+tact the number of men quartered in one's house might be reduced; and
+why should [rest of string was truncated]";.
+</summary>
+</member><member name="P:Typing.My.Resources.Resources.story7">
+	<summary>
+  Looks up a localized string similar to As they had decided on starting at eight o'clock the next morning, every
+one was in the kitchen at that hour; but the coach, its roof covered
+with snow, stood by itself in the middle of the yard, without either
+horses or driver. They sought the latter in the stables, coach-houses
+and barns --but in vain. So the men of the party resolved to scour
+the country for him, and sallied forth. They found them selves in the
+square, with the church at the farther side, and to right and left
+low-roofed houses wh [rest of string was truncated]";.
+</summary>
+</member><member name="P:Typing.My.Resources.Resources.story8">
+	<summary>
+  Looks up a localized string similar to But at dinner the coalition weakened. Loiseau made three unfortunate
+remarks. Each was cudgeling his brains for further examples of
+self-sacrifice, and could find none, when the countess, possibly without
+ulterior motive, and moved simply by a vague desire to do homage to
+religion, began to question the elder of the two nuns on the most
+striking facts in the lives of the saints. Now, it fell out that many
+of these had committed acts which would be crimes in our eyes, but the
+Church readily pardons su [rest of string was truncated]";.
+</summary>
+</member><member name="P:Typing.My.Resources.Resources.story9">
+	<summary>
+  Looks up a localized string similar to Then he sat down and began to reflect. In the morning he must find seconds. Whom should he choose? He searched his mind for the most important and celebrated names of his acquaintance. At last he decided on the Marquis de la Tour-Noire and Colonel Bourdin, an aristocrat and a soldier; they would do excellently. Their names would look well in the papers. He realised that he was thirsty, and drank three glasses of water one after the other; then he began to walk up and down again. He felt full of energy. If h [rest of string was truncated]";.
+</summary>
+</member><member name="T:Typing.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,58 @@
+C:\Users\Mohit\AppData\Local\Temporary Projects\Typing\bin\Debug\Typing.exe
+C:\Users\Mohit\AppData\Local\Temporary Projects\Typing\bin\Debug\Typing.pdb
+C:\Users\Mohit\AppData\Local\Temporary Projects\Typing\bin\Debug\Typing.xml
+C:\Users\Mohit\AppData\Local\Temporary Projects\Typing\obj\x86\Debug\Typing.Form1.resources
+C:\Users\Mohit\AppData\Local\Temporary Projects\Typing\obj\x86\Debug\Typing.Form2.resources
+C:\Users\Mohit\AppData\Local\Temporary Projects\Typing\obj\x86\Debug\Typing.Resources.resources
+C:\Users\Mohit\AppData\Local\Temporary Projects\Typing\obj\x86\Debug\Typing.vbproj.GenerateResource.Cache
+C:\Users\Mohit\AppData\Local\Temporary Projects\Typing\obj\x86\Debug\Typing.exe
+C:\Users\Mohit\AppData\Local\Temporary Projects\Typing\obj\x86\Debug\Typing.xml
+C:\Users\Mohit\AppData\Local\Temporary Projects\Typing\obj\x86\Debug\Typing.pdb
+C:\Users\Mohit\AppData\Local\Temporary Projects\Typing\obj\x86\Debug\Typing.SplashScreen1.resources
+C:\Users\Mohit\documents\visual studio 2010\Projects\Typing\Typing\obj\x86\Debug\Typing.exe
+C:\Users\Mohit\documents\visual studio 2010\Projects\Typing\Typing\obj\x86\Debug\Typing.xml
+C:\Users\Mohit\documents\visual studio 2010\Projects\Typing\Typing\obj\x86\Debug\Typing.pdb
+C:\Users\Mohit\documents\visual studio 2010\Projects\Typing\Typing\bin\Debug\Typing.exe
+C:\Users\Mohit\documents\visual studio 2010\Projects\Typing\Typing\bin\Debug\Typing.pdb
+C:\Users\Mohit\documents\visual studio 2010\Projects\Typing\Typing\bin\Debug\Typing.xml
+C:\Users\Mohit\documents\visual studio 2010\Projects\Typing\Typing\obj\x86\Debug\Typing.Form2.resources
+C:\Users\Mohit\documents\visual studio 2010\Projects\Typing\Typing\obj\x86\Debug\Typing.Resources.resources
+C:\Users\Mohit\documents\visual studio 2010\Projects\Typing\Typing\obj\x86\Debug\Typing.SplashScreen1.resources
+C:\Users\Mohit\documents\visual studio 2010\Projects\Typing\Typing\obj\x86\Debug\Typing.vbproj.GenerateResource.Cache
+C:\Users\Mohit\Documents\Visual Studio 2010\Projects\Typing\Typing\obj\x86\Debug\Typing.high_scores.resources
+C:\Users\Mohit\Documents\Visual Studio 2010\Projects\Typing\Typing\obj\x86\Debug\Typing.Form3.resources
+C:\Users\Mohit\Documents\Visual Studio 2010\Projects\Typing\Typing\obj\x86\Debug\Typing.Form4.resources
+C:\Users\Mohit\Documents\Visual Studio 2010\Projects\Typing\Typing\obj\x86\Debug\Typing.Form1.resources
+C:\Users\Mohit\Desktop\Typing\Typing\obj\x86\Debug\Typing.exe
+C:\Users\Mohit\Desktop\Typing\Typing\obj\x86\Debug\Typing.xml
+C:\Users\Mohit\Desktop\Typing\Typing\obj\x86\Debug\Typing.pdb
+C:\Users\Mohit\Downloads\mohit\Typing\Typing\obj\x86\Debug\Typing.exe
+C:\Users\Mohit\Downloads\mohit\Typing\Typing\obj\x86\Debug\Typing.xml
+C:\Users\Mohit\Downloads\mohit\Typing\Typing\obj\x86\Debug\Typing.pdb
+C:\Users\Mohit\Downloads\mohit\Typing\Typing\bin\Debug\Typing.exe
+C:\Users\Mohit\Downloads\mohit\Typing\Typing\bin\Debug\Typing.pdb
+C:\Users\Mohit\Downloads\mohit\Typing\Typing\bin\Debug\Typing.xml
+C:\Users\Mohit\Downloads\mohit\Typing\Typing\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mohit\Downloads\mohit\Typing\Typing\obj\x86\Debug\Typing.Form1.resources
+C:\Users\Mohit\Downloads\mohit\Typing\Typing\obj\x86\Debug\Typing.Form2.resources
+C:\Users\Mohit\Downloads\mohit\Typing\Typing\obj\x86\Debug\Typing.Form3.resources
+C:\Users\Mohit\Downloads\mohit\Typing\Typing\obj\x86\Debug\Typing.Form4.resources
+C:\Users\Mohit\Downloads\mohit\Typing\Typing\obj\x86\Debug\Typing.high_scores.resources
+C:\Users\Mohit\Downloads\mohit\Typing\Typing\obj\x86\Debug\Typing.Resources.resources
+C:\Users\Mohit\Downloads\mohit\Typing\Typing\obj\x86\Debug\Typing.SplashScreen1.resources
+C:\Users\Mohit\Downloads\mohit\Typing\Typing\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mohit\Downloads\mohit\Typing\Typing\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mohiitb\Downloads\120101041_Typing_Speed_Multinew\Typing\Typing\obj\x86\Debug\Typing.exe
+C:\Users\mohiitb\Downloads\120101041_Typing_Speed_Multinew\Typing\Typing\obj\x86\Debug\Typing.xml
+C:\Users\mohiitb\Downloads\120101041_Typing_Speed_Multinew\Typing\Typing\obj\x86\Debug\Typing.pdb
+C:\Users\mohiitb\Downloads\120101041_Typing_Speed_Multinew\Typing\Typing\bin\Debug\Typing.exe
+C:\Users\mohiitb\Downloads\120101041_Typing_Speed_Multinew\Typing\Typing\bin\Debug\Typing.pdb
+C:\Users\mohiitb\Downloads\120101041_Typing_Speed_Multinew\Typing\Typing\bin\Debug\Typing.xml
+C:\Users\mohiitb\Downloads\120101041_Typing_Speed_Multinew\Typing\Typing\obj\x86\Debug\Typing.Form1.resources
+C:\Users\mohiitb\Downloads\120101041_Typing_Speed_Multinew\Typing\Typing\obj\x86\Debug\Typing.Form2.resources
+C:\Users\mohiitb\Downloads\120101041_Typing_Speed_Multinew\Typing\Typing\obj\x86\Debug\Typing.Form3.resources
+C:\Users\mohiitb\Downloads\120101041_Typing_Speed_Multinew\Typing\Typing\obj\x86\Debug\Typing.Form4.resources
+C:\Users\mohiitb\Downloads\120101041_Typing_Speed_Multinew\Typing\Typing\obj\x86\Debug\Typing.high_scores.resources
+C:\Users\mohiitb\Downloads\120101041_Typing_Speed_Multinew\Typing\Typing\obj\x86\Debug\Typing.Resources.resources
+C:\Users\mohiitb\Downloads\120101041_Typing_Speed_Multinew\Typing\Typing\obj\x86\Debug\Typing.SplashScreen1.resources
+C:\Users\mohiitb\Downloads\120101041_Typing_Speed_Multinew\Typing\Typing\obj\x86\Debug\Typing.vbproj.GenerateResource.Cache
